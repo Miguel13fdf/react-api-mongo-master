@@ -2,8 +2,7 @@
   "name": "react-api-mongo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://FicctionZ.github.io/react-api-mongo",
-  
+  "homepage": "http://Miguel13fdf.github.io/react-api-mongo-master",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
